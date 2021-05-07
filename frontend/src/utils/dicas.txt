@@ -1,0 +1,2 @@
+useState: "Starta" o elemento na condição inicial
+useEffect: Modifica o elemento conforme a necessidade
